@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<loc:localIdentity profileId="m5ZiF8vHZNSkvG1A" profileName="test" contractId="1UQDYRFstlgsurZ7" profileEnabled="false" registrationEnabled="false" xmlns:loc="http://pingidentity.com/2017/07/localIdentity">
+    <loc:auth-sources>
+        <loc:auth-source id="quJYU5QFx1oUQkB8" name="test">
+            <loc:update-policy attributeStorageEnabled="false" retainAttributes="false" updateAttributes="false" updateInterval="0.0"/>
+        </loc:auth-source>
+    </loc:auth-sources>
+</loc:localIdentity>

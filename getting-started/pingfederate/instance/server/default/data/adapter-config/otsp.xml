@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urn:AdapterConfiguration isInheritTargetApplicationInfo="false" isInheritExtendedContractAttributes="false" name="ot-sp" xmlns:urn="urn:sourceid.org:saml2:adapter:conf">
+    <urn:Fields>
+        <urn:Field name="Password">eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2Iiwia2lkIjoiaDVYQmpUblNiRyIsInZlcnNpb24iOiIxMC4yLjQuMyJ9..ngEoQLYuZCQBfdAh2wiGow.BcIaIefpYfd-S4Ks2KS0bA.U4ePWN0pNM14CzjnHnSoUA</urn:Field>
+        <urn:Field name="Confirm Password">eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2Iiwia2lkIjoiaDVYQmpUblNiRyIsInZlcnNpb24iOiIxMC4yLjQuMyJ9..7X16Gk_nvWbM-cD-09xGxA.ZyB1FCFLJRznNawCDV2S6w.RWj_Je7PwYFw7FKjr7uelA</urn:Field>
+        <urn:Field name="Transport Mode">2</urn:Field>
+        <urn:Field name="Token Name">opentoken</urn:Field>
+        <urn:Field name="Cipher Suite">2</urn:Field>
+        <urn:Field name="Authentication Service"/>
+        <urn:Field name="Account Link Service"/>
+        <urn:Field name="Logout Service"/>
+        <urn:Field name="SameSite Cookie">3</urn:Field>
+        <urn:Field name="Cookie Domain"/>
+        <urn:Field name="Cookie Path">/</urn:Field>
+        <urn:Field name="Token Lifetime">300</urn:Field>
+        <urn:Field name="Session Lifetime">43200</urn:Field>
+        <urn:Field name="Not Before Tolerance">0</urn:Field>
+        <urn:Field name="Force SunJCE Provider">false</urn:Field>
+        <urn:Field name="Use Verbose Error Messages">false</urn:Field>
+        <urn:Field name="Obfuscate Password">true</urn:Field>
+        <urn:Field name="Session Cookie">false</urn:Field>
+        <urn:Field name="Secure Cookie">true</urn:Field>
+        <urn:Field name="HTTP Only Flag">true</urn:Field>
+        <urn:Field name="Send Subject as Query Parameter">false</urn:Field>
+        <urn:Field name="Subject Query Parameter                 "/>
+        <urn:Field name="Send Extended Attributes">0</urn:Field>
+        <urn:Field name="Skip Trimming of Trailing Backslashes">false</urn:Field>
+        <urn:Field name="URL Encode Cookie Values">true</urn:Field>
+    </urn:Fields>
+    <urn:AdvancedFields>
+        <urn:Field name="Transport Mode">2</urn:Field>
+        <urn:Field name="Token Name">opentoken</urn:Field>
+        <urn:Field name="Cipher Suite">2</urn:Field>
+        <urn:Field name="Authentication Service"/>
+        <urn:Field name="Account Link Service"/>
+        <urn:Field name="Logout Service"/>
+        <urn:Field name="SameSite Cookie">3</urn:Field>
+        <urn:Field name="Cookie Domain"/>
+        <urn:Field name="Cookie Path">/</urn:Field>
+        <urn:Field name="Token Lifetime">300</urn:Field>
+        <urn:Field name="Session Lifetime">43200</urn:Field>
+        <urn:Field name="Not Before Tolerance">0</urn:Field>
+        <urn:Field name="Force SunJCE Provider">false</urn:Field>
+        <urn:Field name="Use Verbose Error Messages">false</urn:Field>
+        <urn:Field name="Obfuscate Password">true</urn:Field>
+        <urn:Field name="Session Cookie">false</urn:Field>
+        <urn:Field name="Secure Cookie">true</urn:Field>
+        <urn:Field name="HTTP Only Flag">true</urn:Field>
+        <urn:Field name="Send Subject as Query Parameter">false</urn:Field>
+        <urn:Field name="Subject Query Parameter                 "/>
+        <urn:Field name="Send Extended Attributes">0</urn:Field>
+        <urn:Field name="Skip Trimming of Trailing Backslashes">false</urn:Field>
+        <urn:Field name="URL Encode Cookie Values">true</urn:Field>
+    </urn:AdvancedFields>
+    <urn:Tables/>
+    <urn:ExtendedContractAttributes/>
+</urn:AdapterConfiguration>

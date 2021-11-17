@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urn:AdapterConfiguration isInheritTargetApplicationInfo="false" isInheritExtendedContractAttributes="false" name="ref-sp" xmlns:urn="urn:sourceid.org:saml2:adapter:conf">
+    <urn:Fields>
+        <urn:Field name="Authentication Endpoint"/>
+        <urn:Field name="User Name">user</urn:Field>
+        <urn:Field name="Pass Phrase">eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2Iiwia2lkIjoiaDVYQmpUblNiRyIsInZlcnNpb24iOiIxMC4yLjQuMyJ9..TGj4oEtVLcp92cb2Wwa8LQ.oieUhSIwA6PdF2tHUqgeZQ.nzuFoO7_i9TpIIqGPgOqag</urn:Field>
+        <urn:Field name="Allowed Subject DN"/>
+        <urn:Field name="Allowed Issuer DN"/>
+        <urn:Field name="Logout Service Endpoint"/>
+        <urn:Field name="Logout Service Mode">NONE</urn:Field>
+        <urn:Field name="Logout Mode"/>
+        <urn:Field name="Account Linking Authentication Endpoint"/>
+        <urn:Field name="Transport Mode">2</urn:Field>
+        <urn:Field name="Reference Duration">3</urn:Field>
+        <urn:Field name="Reference Length">30</urn:Field>
+        <urn:Field name="Require SSL/TLS">true</urn:Field>
+        <urn:Field name="Outgoing Attribute Format">JSON</urn:Field>
+        <urn:Field name="Incoming Attribute Format">JSON</urn:Field>
+        <urn:Field name="Skip Host Name Validation ">false</urn:Field>
+        <urn:Field name="Relax Password Requirements">false</urn:Field>
+    </urn:Fields>
+    <urn:AdvancedFields>
+        <urn:Field name="Transport Mode">2</urn:Field>
+        <urn:Field name="Reference Duration">3</urn:Field>
+        <urn:Field name="Reference Length">30</urn:Field>
+        <urn:Field name="Require SSL/TLS">true</urn:Field>
+        <urn:Field name="Outgoing Attribute Format">JSON</urn:Field>
+        <urn:Field name="Incoming Attribute Format">JSON</urn:Field>
+        <urn:Field name="Skip Host Name Validation ">false</urn:Field>
+        <urn:Field name="Relax Password Requirements">false</urn:Field>
+    </urn:AdvancedFields>
+    <urn:Tables/>
+    <urn:ExtendedContractAttributes/>
+</urn:AdapterConfiguration>

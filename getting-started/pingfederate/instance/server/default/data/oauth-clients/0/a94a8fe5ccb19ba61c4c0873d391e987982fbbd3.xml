@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urn:Clients xmlns:urn="urn:pingidentity.com:pf:oauth:client">
+    <urn:Client client_id="test" name="test" logo="" secret="X-bNe_OvnPHo7aiiwKXePO1NqhrpRzdDCcUX-YGni4s.WTHvelcY.2" persistentGrantExpirationTime="0" enabled="true" lastModified="2021-09-24T14:14:58.846+01:00" bypassApprovalPage="true" restrictScopes="false" clientCertIssuerDN="Trust Any" clientCertSubjectDN="CN=a308e03b-8c02-4325-9392-c956e545830a" jwksUri="" jwks="" clientAuthnType="CLIENT_CERT" enforceOneTimeJWT="false" isRequireSignedRequest="false">
+        <urn:Description/>
+        <urn:Grant type="authorization_code"/>
+        <urn:RedirectUri>https://example.com</urn:RedirectUri>
+        <urn:SupplementalInfo key="DEVICE_FLOW_SETTING" value="SERVER_DEFAULT"/>
+        <urn:SupplementalInfo key="RESTRICT_RESPONSE_TYPES" value="false"/>
+        <urn:SupplementalInfo key="ACCESS_SESSION_MANAGEMENT_API" value="false"/>
+        <urn:SupplementalInfo key="ALLOW_EXCLUSIVE_SCOPES" value="false"/>
+        <urn:SupplementalInfo key="PING_ACCESS_LOGOUT_CAPABLE" value="false"/>
+        <urn:SupplementalInfo key="ALLOW_AUTHENTICATION_API_INIT" value="false"/>
+        <urn:SupplementalInfo key="REQUIRE_PROOF_KEY_FOR_CODE_EXCHANGE" value="false"/>
+        <urn:SupplementalInfo key="RESTRICT_TO_DEFAULT_ATM" value="false"/>
+        <urn:SupplementalInfo key="ACCESS_SESSION_REVOCATION_API" value="false"/>
+        <urn:SupplementalInfo key="PERSISTENT_GRANT_IDLE_TIMEOUT_TYPE" value="SERVER_DEFAULT"/>
+        <urn:SupplementalInfo key="VALIDATE_USING_ALL_ELIGIBLE_ATMS" value="false"/>
+        <urn:SupplementalInfo key="ENABLED" value="true"/>
+    </urn:Client>
+</urn:Clients>

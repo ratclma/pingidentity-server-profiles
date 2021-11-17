@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urn:PluginConfiguration isInheritExtendedContractAttributes="false" name="test" xmlns:urn="urn:sourceid.org:saml2:adapter:conf">
+    <urn:Fields>
+        <urn:Field name="code">true</urn:Field>
+        <urn:Field name="code id_token">true</urn:Field>
+        <urn:Field name="code id_token token">true</urn:Field>
+        <urn:Field name="code token">true</urn:Field>
+        <urn:Field name="id_token">true</urn:Field>
+        <urn:Field name="id_token token">true</urn:Field>
+        <urn:Field name="token">true</urn:Field>
+    </urn:Fields>
+    <urn:AdvancedFields/>
+    <urn:Tables/>
+</urn:PluginConfiguration>
