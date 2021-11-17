@@ -1,0 +1,14 @@
+ID=1546780
+Organization=ProofID
+Product=PingFederate
+Version=10.0
+IssueDate=2020-01-06
+Tier=Subscription
+ExpirationDate=2022-04-07
+EnforcementType=3
+SaasProvisioning=true
+WSTrustSTS=true
+OAuth=true
+Generator=WebAPI
+SignCode=FF0F
+Signature=302B021468752922AEAC6065CA3CA5DD1771E272C72566610213467310294D9C3B3FF96ABF4F27BAE1E7256984
